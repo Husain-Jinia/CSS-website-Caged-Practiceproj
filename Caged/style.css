@@ -27,9 +27,6 @@ body{
 
 }
 
-.header h1{
-    
-}
 .header img{
     width: 65px;
     height: 65px;
@@ -73,7 +70,7 @@ body{
     background-image: url(images/2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 480px;
     margin-bottom: 20px;
 }
 
